@@ -1,6 +1,6 @@
 {
-    "name": "dicoding_codelab_1",
-    "short_name": "dicoding_codelab_1",
+    "name": "Wisata Bandung",
+    "short_name": "WB",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -16,6 +16,11 @@
         },
         {
             "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/web_icon.png",
             "sizes": "512x512",
             "type": "image/png"
         }

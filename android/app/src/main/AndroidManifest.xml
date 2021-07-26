@@ -1,8 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.dicoding_codelab_1">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="dicoding_codelab_1"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Tourism List"
+        android:icon="@mipmap/flutter_launcher">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
